@@ -1,5 +1,2 @@
 # ignore the following files
-/queries.csv
 /.ipynb_checkpoints/
-/extracted_entities.csv
-/data/freq_words.csv/

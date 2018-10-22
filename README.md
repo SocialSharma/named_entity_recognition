@@ -1,4 +1,4 @@
-EDIT (10/22/18) - Very excited that notebook won a Kaggle Kernel prize! (Check it out)[https://www.kaggle.com/general/37924#391409]. 
+<strong>UPDATE (10/22/18)</strong>: Very excited that notebook won a Kaggle Kernel prize! (Check it out)[https://www.kaggle.com/general/37924#391409].<br>
 
 <img src='https://spacy.io/assets/img/pipeline.svg'><center><span style="font-size:10px;">Source: <a href="https://spacy.io/usage/processing-pipelines">spaCy Language Processing Pipelines</a></span></center>
 

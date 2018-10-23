@@ -44,4 +44,4 @@ To largely simplify our task then, we must generate a set of entities from a sci
 
 Yikes. Are you sweating a little? Because I am. Instead of reaching for some Ibuprofen and deep learning pills, let's make a prototype using a little ingenuity, simple open-source code, and a lot of heuristics. Hopefully, through this process, we'll also learn a bit about the text processing pipeline that brings understanding natural language into the realm of the possible. 
 
-Enought chit-chat. Let's get to it! Check out the full [Jupyter Notebook](https://nbviewer.jupyter.org/github/SudoSharma/entity_extraction/blob/master/entity_extraction.ipynb) online at this nbviwer link for better rendering of all graphics.
+Enought chit-chat. Let's get to it! Check out the full [Jupyter Notebook](https://nbviewer.jupyter.org/github/SudoSharma/entity_extraction/blob/master/entity_extraction.ipynb) online at this nbviewer link for better rendering of all graphics.

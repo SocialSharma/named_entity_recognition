@@ -1,6 +1,6 @@
 <strong>UPDATE (10/22/18)</strong>: Very excited that this notebook won a Google Kaggle Kernels award! [Check it out](https://www.kaggle.com/general/37924#391409).<br>
 
-<img src='https://spacy.io/assets/img/pipeline.svg'><center><span style="font-size:10px;">Source: <a href="https://spacy.io/usage/processing-pipelines">spaCy Language Processing Pipelines</a></span></center>
+<img src='https://spacy.io/pipeline-7a14d4edd18f3edfee8f34393bff2992.svg'><center><span style="font-size:10px;">Source: <a href="https://spacy.io/usage/processing-pipelines">spaCy Language Processing Pipelines</a></span></center>
 
 # Quick and Dirty - Entity Extraction
 
